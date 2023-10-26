@@ -13,6 +13,11 @@ const router = createRouter({
       path: '/template',
       name: 'template',
       component: () => import('../views/TemplateView.vue')
+    },
+    {
+      path: '/templates/resume-one',
+      name: 'resume-one',
+      component: () => import('../views/templates/ResumeOneView.vue')
     }
   ]
 })

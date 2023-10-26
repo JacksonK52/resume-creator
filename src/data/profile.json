@@ -1,4 +1,23 @@
 {
     "name": "Jackson Konjengbam",
-    "address": "Sagolband Nepra Menjor Mamang Leikai, Imphal, Manipur - 795001"
+    "address": "Sagolband Nepra Menjor Mamang Leikai, Imphal, Manipur - 795001",
+    "email": "jacksonkonjengbam@gmail.com",
+    "mobile": "+917002434553",
+    "social-links": [
+        {
+            "social": "Github",
+            "title": "github @JacksonK52",
+            "link": "https://github.com/JacksonK52"
+        },
+        {
+            "social": "Portfolio",
+            "title": "portfolio Jackson Konjengbam",
+            "link": "https://jacksonkonjengbam.com"
+        },
+        {
+            "social": "Linkedin",
+            "title": "linkedin @jackson-konjengbam",
+            "link": "https://www.linkedin.com/in/jackson-konjengbam/"
+        }
+    ]
 }

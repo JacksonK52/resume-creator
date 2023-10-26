@@ -13,8 +13,8 @@
   <div class="about">
     <h1>This is an about page</h1>
     <div v-for="template in templates" :key="template.id">
-      <p>{{ template.title }}</p>
-      <RouterLink class="link" to="/templates/resume-one">Resume One</RouterLink>
+      <!-- <p>{{ template.title }}</p> -->
+      <RouterLink class="link" to="/templates/resume-one">{{ template.title }}</RouterLink>
     </div>
   </div>
 </template>
